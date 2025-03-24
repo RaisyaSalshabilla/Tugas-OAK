@@ -26,3 +26,5 @@ Industri computer personal lainnya merespon perkembangan ini dengan mengadopsi s
 
 ## 3. Umumnya perangkat berprioritas paling rendah memiliki waktu tunggu rata-rata yang paling singkat. Dengan dasar ini biasanya CPU diberi perioritas tertinggi pada SBI. Sebutkan alasan perangkat berprioritas 16 memiliki waktu tunggu rata-rata paling rendah ? Di bawah kondisi Seperti apa keadaan diatas tidak berlaku ?
 Bus data, jalur yang berfungsi untuk menyalurkan data dari suatu bagian ke bagian lainnya. Berisi 8, 16, 32 jalur sinyal paralel atau lebih. Jalur-jalur data adalah dua arah (bidirectional). CPU dapat membaca dan mengirim data dari/ke memori atau port. Banyak perangkat pada sistem yang dicantolkan ke bus data tapi hanya satu perangkat pada satu saat yang dapat memakainya. Untuk mengatur ini, perangkat harus mempunyai tiga state  (tristate) agar dapat dipasang pada bus data.
+
+### Sumber : https://tecnomasi.blogspot.com/2015/12/jawaban-organisasi-arsitektur-komputer.html
